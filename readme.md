@@ -1,0 +1,1 @@
+This is my new repo which I'm using to make use of it of me relearning AI 
